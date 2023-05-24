@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+.container-fluid{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+}
+
+#searchtext{
+    margin-top: 50px;
+    display: inline-block;
+    width: 350px;
+}
+.btn-1{
+    margin-top: 50px;
+}
